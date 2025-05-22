@@ -1,0 +1,2 @@
+# RUL-Estimation-of-Turbofan-Jet-Engines-Using-Run-to-Failure-Degradation-Simulation
+This paper focuses on the estimation of the RUL of jet engines in aircraft. Previous studies estimate RUL by applying a fixed truncation threshold. In contrast, we propose a dynamic approach to RUL assignment based on a simple algorithm that avoids fixed truncation while aiming to preserve the predictive performance of existing models.
